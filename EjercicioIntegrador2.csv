@@ -1,0 +1,64 @@
+Estado,Ciudad,Codigo_IATA,Pasajeros,Vuelos_Sinaloa
+Aguascalientes,Aguascalientes,AGU,258,1
+Baja California,Isla Cedros,CDI,1808,4
+Baja California,Ensenada,ESE,2365,2
+Baja California,Mexicali,MXL,4236,3
+Baja California,San Felipe,SFH,2030,3
+Baja California,Tijuana,TIJ,3501,3
+Baja California Sur,La Paz,LAP,2628,4
+Baja California Sur,Loreto,LTO,2963,1
+Baja California Sur,Los Cabos,SJD,3520,2
+Campeche,Cd. Del Carmen,CME,4054,3
+Chiapas,Comitán,CJT,3914,1
+Chiapas,Palenque,PQM,3215,1
+Chiapas,Tapachula,TAP,3316,4
+Chiapas,Tuxtla Gutiérrez,TGZ,2091,4
+Chihuahua,Cd. Juárez,CJS,3052,4
+Chihuahua,Chihuahua,CUU,759,2
+Chihuahua,Nuevo Casas Grandes,NCG,3019,3
+Coahuila,Ciudad Acuña,ACN,2219,2
+Coahuila,Saltillo,SLW,3783,1
+Colima,Colima,CLQ,4166,3
+Colima,Manzanillo,ZLO,3148,2
+Colima,Manzanillo,MEX,342,3
+Cd. de México,Cd. De México,DGO,1137,1
+Durango,Durango,TLC,2018,1
+Estado de México,Toluca,BJX,3824,4
+Guanajuato,León,ACA,120,1
+Guerrero,Acapulco,ZIH,3196,3
+Guerrero,Ixtapa/Zihuatanejo,PCA,3749,2
+Hidalgo,Pachuca,GDL,3824,3
+Jalisco,Guadalajara,LOM,3020,3
+Jalisco,Lagos de Moreno,PVR,2832,1
+Jalisco,Puerto Vallarta,JJC,827,2
+México,Atizapán,AZG,919,3
+Michoacán,Apatzingán,UPN,4281,4
+Michoacán,Uruapan,ZMM,447,4
+Michoacán,Zamora,CVJ,2217,3
+Morelos,Cuernavaca,TNY,1428,2
+Nayarit,Tepic,TPQ,2942,4
+Nayarit,Tepic,MTY,1474,1
+Nuevo León,Monterrey,HUX,3329,4
+Oaxaca,Huatulco,IZT,2268,4
+Oaxaca,Oaxaca,PXM,3549,2
+Oaxaca,Puerto Escondido,SCX,862,3
+Puebla,Tehuacán,QRO,2369,2
+Querétaro,Querétaro,CTM,4029,3
+Quintana Roo,Chetumal,ISJ,1953,4
+Quintana Roo,Isla Mujeres,TUY,584,3
+San Luis Potosí,San Luis Potosí,TSL,680,2
+San Luis Potosí,Tamuín,CNA,1801,1
+Sonora,Cananea,CUL,316,3
+Sinaloa,Culiacán,LMM,0,0
+Sinaloa,Los Mochis,MZT,0,0
+Sinaloa,Mazatlán,CEN,0,0
+Sonora,Cd. Obregón,GYM,946,4
+Sonora,Guaymas,HMO,3061,3
+Sonora,Hermosillo,NOG,231,1
+Sonora,Nogales,CPX,3321,3
+Tabasco,Villahermosa,REX,920,4
+Tamaulipas,Reynosa,TAM,4366,4
+Tamaulipas,Tampico,JAL,3336,1
+Veracruz,Veracruz,CZA,3314,2
+Yucatán,Chichén Itzá,MID,2114,4
+Yucatán,Mérida,TZM,1961,4
